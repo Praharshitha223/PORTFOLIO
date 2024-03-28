@@ -1,0 +1,336 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #333;
+    background-image: url('https://tse2.explicit.bing.net/th?id=OIP.izE0r5lMt5itMCoAettnjwHaEK&pid=Api&P=0&h=180');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: white; 
+}
+
+nav {
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1rem;
+}
+
+.logo img {
+    width: 100px;
+}
+
+.nav-links {
+    list-style: none;
+    display: flex;
+    gap: 1rem;
+}
+
+.nav-links li a {
+    text-decoration: none;
+    color: white;
+}
+
+header {
+    text-align: center;
+    padding: 2rem;
+    background-color: rgba(240, 240, 240, 0.8); 
+}
+
+header h1 {
+    color: black;
+}
+header p {
+    color: black;
+}
+
+h1 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
+
+.content {
+    display: flex;
+    align-items: center;
+    padding: 2rem;
+}
+
+.text {
+    flex: 1;
+    padding: 1rem;
+}
+
+.image img {
+    width: 250px;
+    height: 250px; 
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Basic styling for the page */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #333;
+    background-image: url('https://tse2.mm.bing.net/th?id=OIP.7hU72T869VbLWuiWvDLYBgHaFj&pid=Api&P=0&h=180'); /* Add your background image URL */
+    background-size: cover; /* Cover the entire page with the background image */
+    background-position: center; /* Center the background image */
+    background-repeat: no-repeat;
+    backdrop-filter: black;
+}
+
+/* Styling for the navigation bar */
+nav {
+    background-color: #333;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+    
+   
+}
+
+.logo img {
+    width: 100px; /* Adjust the logo size as needed */
+}
+
+.nav-links {
+    list-style: none;
+    display: flex;
+    gap: 1rem;
+}
+
+.nav-links li a {
+    text-decoration: none;
+    color: white;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 2rem;
+}
+
+h1 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
+
+header p {
+    font-size: 1rem;
+    margin-bottom: 2rem;
+}
+
+section {
+    text-align: center;
+    padding: 2rem;
+}
+
+h2 {
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+}
+
+.course {
+    margin: 1rem;
+    padding: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+}
+.course h3 {
+    font-size: 1.2rem;
+}
+
+.course p {
+    font-size: 1rem;
+}
+body {
+    font-family: Arial, sans-serif;
+    background-image: url('https://tse2.mm.bing.net/th?id=OIP.BkqHgcVlICi-EMJrtg1HAQHaEo&pid=Api&P=0&h=180'); /* Add your background image URL */
+    background-size: cover; /* Adjust background size as needed */
+    background-position: center; /* Center the background image */
+    background-repeat: no-repeat;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-image: url('https://tse4.mm.bing.net/th?id=OIP.5nYK9TKV_S2ztB_F_ts2SAHaFj&pid=Api&P=0&h=180'); /* Add your background image URL */
+    background-size: cover; /* Cover the entire page with the background image */
+    background-position: center; /* Center the background image */
+    background-repeat: no-repeat;
+    backdrop-filter: black;
+}
+
+nav {
+    background-color: #333;
+    color: white;
+    padding: 1rem;
+}
+
+nav {
+    background-color: #333;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    padding: 1rem;
+}
+.nav-links {
+    list-style: none;
+    display: flex;
+    gap: 1rem;
+    
+}
+
+.nav-links li a {
+    text-decoration: none;
+    color: white;
+}
+
+.skill {
+    padding: 20px;
+}
+
+.skill h2 {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+    color: white;
+}
+
+.skill p {
+    font-size: 1rem;
+    color: white;
+}
+
+
+
+.skills {
+    width: 50%;
+    margin: 0 auto;
+}
+
+.skill {
+    margin-bottom: 1em;
+}
+
+.percentage {
+    background-color: #f1f1f1;
+    border-radius: 5px;
+    height: 20px;
+    position: relative;
+}
+
+.html-bar {
+    background-color: #4CAF50;
+    width: 90%; /* Adjust this value to represent the percentage */
+    height: 100%;
+    border-radius: 5px;
+}
+
+.css-bar {
+    background-color: #2196F3;
+    width: 80%; /* Adjust this value to represent the percentage */
+    height: 100%;
+    border-radius: 5px;
+}
+
+
+
+body {
+    font-family: Arial, sans-serif;
+    background-image: url('https://tse3.explicit.bing.net/th?id=OIP.OU7mAsFtLHUw3Fenoox6DgHaEK&pid=Api&P=0&h=180'); /* Add your background image URL */
+    background-size: cover; /* Cover the entire page with the background image */
+    background-position: center; /* Center the background image */
+    background-repeat: no-repeat;
+    backdrop-filter: black;
+}
+nav {
+    background-color: #333;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    padding: 1rem;
+}
+.nav-links {
+    list-style: none;
+    display: flex;
+    gap: 1rem;
+    
+}
+
+.nav-links li a {
+    text-decoration: none;
+    color: white;
+}
+.contact {
+    text-align: center;
+    padding: 20px;
+}
+
+.contact h2 {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+    color: white;
+}
+
+.contact-info {
+    border: 1px solid #ccc;
+    padding: 20px;
+    max-width: 300px;
+    margin: 0 auto;
+}
+
+.contact-info p {
+    margin: 10px 0;
+}
+
+.contact-info strong {
+    font-weight: bold;
+}
+
+/* Social media icons and links */
+.social-icons {
+    margin-top: 30px;
+}
+
+.social-icons a {
+    margin-right: 10px;
+    font-size: 1.5rem;
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+
+.certificate-section {
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.certificate {
+    margin: 20px 0;
+}
+
+.certificate img {
+    max-width: 100%;
+    height: auto;
+}
+
+.certificate p {
+    font-size: 1.2em;
+    margin: 10px 0 0;
+}
